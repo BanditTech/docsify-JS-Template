@@ -7,6 +7,7 @@
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
 [![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
 
+[Hosted Page](https://bandittech.github.io/docsify-JS-Template/)
 
 ## Preview
 
