@@ -1,11 +1,11 @@
 <!-- TODO: Update title -->
 <h1 id="cover-heading">
-  DocsifyJS Template
+  WingmanReloaded
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/BanditTech/docsify-JS-Template.svg)](https://GitHub.com/BanditTech/docsify-JS-Template/tags/) <!-- TODO: Update username and repo name -->
 
->  Starter template for a markdown-based docs site <!-- TODO: Replace with your description -->
+>  Attempting a fresh webpage for the project with clearer access to information. <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
@@ -18,5 +18,4 @@
 - :cloud: Serve locally and on GitHub Pages or Netlify
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+[Get Started](#About) <!-- TODO: Use ID of your homepage heading -->
